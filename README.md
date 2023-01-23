@@ -12,6 +12,7 @@ This is my first coding project. I've been interested in coding for awhile and I
 ## Usage
 
 You can visit my webpage and seen notes of subject I'm learing about in Bootcamp. It will display the subjects and organized notes for each subject. You can open DevTools to see JavaScript running. It will list the subjects we learned from my prework and choose a subject to study first.
+https://danielkkostich.github.io/prework-study-guide/
 
 
 
